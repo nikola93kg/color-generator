@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-generator/static/css/main.4e74f105.css",
+    "main.js": "/color-generator/static/js/main.f1a53ba3.js",
+    "index.html": "/color-generator/index.html",
+    "main.4e74f105.css.map": "/color-generator/static/css/main.4e74f105.css.map",
+    "main.f1a53ba3.js.map": "/color-generator/static/js/main.f1a53ba3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e74f105.css",
+    "static/js/main.f1a53ba3.js"
+  ]
+}
